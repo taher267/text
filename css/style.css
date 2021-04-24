@@ -1,0 +1,7 @@
+body{font-family: arial;}
+#headerBg{background: tomato; color: white!important; font-size: 18px; height: 120px;line-height: 120px;}
+#footerBg{background: tomato; color: white; font-size: 15px; height: 60px;line-height: 60px;}
+#welMg{color:green;}
+a{text-decoration: none; color: #fff!important;}
+a:hover{text-decoration: none!important;}
+#proPic{width: 70% !important;}
